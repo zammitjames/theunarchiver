@@ -18,8 +18,6 @@ under the LGPL, but if you are interested in using any code from this
 project under another license, please contact the author for further
 information.
 
-    - Dag Ågren, <paracelsus@gmail.com>
-
 
 
 -----------------------------------------------------------------------
